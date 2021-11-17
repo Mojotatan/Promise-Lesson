@@ -1,0 +1,22 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cardGetter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mojotatan/Promise-Lesson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mojotatan/Promise-Lesson/issues"
+  },
+  "homepage": "https://github.com/Mojotatan/Promise-Lesson#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
